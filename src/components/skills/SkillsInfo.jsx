@@ -1,5 +1,5 @@
 import "../skills/Skills.css";
-import SectionTitle from "../sectionTitle/sectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 import Education from "./Education";
 import Awards from "./Awards";
 import Skills from "./Skills";
