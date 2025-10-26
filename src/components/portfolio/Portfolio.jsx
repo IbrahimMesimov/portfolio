@@ -1,6 +1,6 @@
 import { portfolioData } from "../../data/PortfolioData";
 import "../portfolio/Portfolio.css";
-import SectionTitle from "../sectionTitle/sectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 import PortfolioItem from "./PortfolioItem";
 
 const Portfolio = () => {
