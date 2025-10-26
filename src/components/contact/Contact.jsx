@@ -1,7 +1,7 @@
 import ContactLeft from "./ContactLeft";
 import ContactRight from "./ContactRight";
 import "../contact/Contact.css";
-import SectionTitle from "../sectionTitle/sectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 
 const Contact = () => {
   return (

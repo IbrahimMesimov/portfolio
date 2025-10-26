@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import SectionTitle from "../sectionTitle/sectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 import { client1, client2, client3 } from "../../assets/images";
 import { slideInVariants } from "../../utils/animation";
 import { motion } from "framer-motion";
