@@ -20,7 +20,7 @@ const GetinTouch = () => {
             <h2>NEXT PROJECT</h2>
           </motion.div>
           <motion.a
-            href=""
+            href="#contact"
             className="get-in-touch-link inner-info-link"
             initial="hidden"
             whileInView="visible"

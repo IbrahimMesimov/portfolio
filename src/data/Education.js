@@ -1,17 +1,12 @@
 export const education = [
   {
-    year: "2020-2021",
-    degree: "Ph.D in Horriblensess",
-    institution: "Harward University,Cambridge,MA",
+    year: "2007-2011",
+    degree: "Baku State University",
+    institution: "Azerbaijan,Baku",
   },
   {
-    year: "2018-2019",
-    degree: "Computer Science",
-    institution: "Imperialize Technical Institute",
-  },
-  {
-    year: "2016-2018",
-    degree: "Graphic Designer",
-    institution: "Web Graphy,Los Angeles,LA",
+    year: "2024-2025",
+    degree: "Frontend Developer course",
+    institution: "Azerbaijan,Baku",
   },
 ];

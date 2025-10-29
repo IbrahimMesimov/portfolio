@@ -33,7 +33,7 @@ const Aboutme = () => {
                 custom={0}
                 variants={slideInVariants("right", 0.5, 50, true)}
               >
-                I'm Ilay
+                I'm Ibrahim
               </motion.h3>
               <motion.h4
                 initial="hidden"
@@ -42,8 +42,7 @@ const Aboutme = () => {
                 custom={0}
                 variants={slideInVariants("left", 0.5, 50, true)}
               >
-                A Lead <span>Front-End Developer</span> based in{" "}
-                <span>California</span>
+                <span>Front-End Developer</span> based in <span>Baku</span>
               </motion.h4>
               <motion.p
                 initial="hidden"

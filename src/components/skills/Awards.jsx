@@ -3,7 +3,7 @@ import { awards } from "../../data/Awards";
 const Awards = () => {
   return (
     <div className="education">
-      <h4 className="label">Awards</h4>
+      <h4 className="label">Hobbies</h4>
       <ul className="education-list">
         {awards.map((item, index) => (
           <li className="item" key={index}>

@@ -68,6 +68,8 @@
 
 .home-img img {
   width: 90%;
+  margin-left: 53px;
+  border-radius: 50%;
 }
 
 .scroll-down {

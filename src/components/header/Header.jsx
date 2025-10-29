@@ -31,7 +31,7 @@ const Header = () => {
       <div className="container">
         <div className="header-wrapper">
           <a href="#" className="logo">
-            Ilay
+            Ibrahim
           </a>
           <RemoveScroll enabled={isMenuOpen}>
             <Nav isMenuOpen={isMenuOpen} handleMenuClick={handleMenuClick} />

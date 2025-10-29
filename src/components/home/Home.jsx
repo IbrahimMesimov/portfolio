@@ -43,7 +43,7 @@ const Home = () => {
             custom={0}
             variants={slideInVariants("left", 0.5, 50, true)}
           >
-            Hi, i am Ilay
+            Hi, i am Ibrahim
           </motion.h1>
           <motion.h3
             initial="hidden"
@@ -65,7 +65,7 @@ const Home = () => {
             web
           </motion.p>
           <motion.a
-            href=""
+            href="#contact"
             className="home-info-link inner-info-link"
             initial="hidden"
             whileInView="visible"

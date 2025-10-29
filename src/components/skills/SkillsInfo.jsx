@@ -3,7 +3,7 @@ import SectionTitle from "../sectionTitle/SectionTitle";
 import Education from "./Education";
 import Awards from "./Awards";
 import Skills from "./Skills";
-import WorkExperience from "./WorkExperience";
+// import WorkExperience from "./WorkExperience";
 import { motion } from "motion/react";
 import { slideInVariants } from "../../utils/animation";
 
@@ -21,11 +21,11 @@ const SkillsInfo = () => {
             custom={2}
             variants={slideInVariants("top", 0.6, 50, true)}
           >
-            <h3>Education & Skills</h3>
+            <h3>Education & Skills & Hobbies</h3>
             <p>
-              For more than 5 years our experts have been accomplishing enough
-              with modern Web Development, new generation web and app
-              programming language.
+              I have been passionately improving my skills in modern web
+              development and now I’m eager to bring this experience to your
+              team.
             </p>
           </motion.div>
           <div className="skills-info education-all">
@@ -57,7 +57,7 @@ const SkillsInfo = () => {
               <Awards />
             </motion.div>
           </div>
-          <WorkExperience />
+          {/* <WorkExperience /> */}
         </div>
       </div>
     </section>
